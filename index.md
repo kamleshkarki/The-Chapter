@@ -8,10 +8,10 @@ Logi Composer
 Logi Info
 Logi Report
 
-<h3>Benefits of logi<h3>
- <ul> 
+<h3>Benefits of logi</h3>
+
 1. Compleate Customization
 2. Self Service Analytics
 3. Collaboration With Team
 4. Leverages Existing Security
-</ul>
+

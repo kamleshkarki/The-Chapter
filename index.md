@@ -9,9 +9,9 @@ Logi Info
 Logi Report
 
 <h3>Benefits of logi<h3>
- <ui> 
+ <ul> 
 1. Compleate Customization
 2. Self Service Analytics
 3. Collaboration With Team
 4. Leverages Existing Security
-</ui>
+</ul>
